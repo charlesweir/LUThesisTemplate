@@ -1,4 +1,4 @@
-#Thesis Template
+Lancaster Thesis Template
 
 This is a version of the thesis template created by Kayla Friedman and Malcolm Morgan - see https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/ . This page provides instructions and background, and also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
 
