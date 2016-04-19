@@ -9,6 +9,12 @@ I have made the following changes for Lancaster University use:
 * Made line spacing double.
 * Changed declaration to include papers written.
 
+Click on Github's Download Zip button above to download the files:
+* LAN Thesis Sample.docx - An example simple word document thesis.
+* LAN Thesis Template.dotx - A Template to act as a basis for document. It fills in many of the fields correctly.
+* LAN+Template.thmx - A PowerPoint theme for embedded pictures with black backgrounds... 
+
+
 Word is not very good at handling very large files, so for a practical thesis you may need a master document with sub-documents for each chapter. That works fine with this template. See http://www.howtogeek.com/73960/create-a-master-document-in-word-2010-from-multiple-documents/ for instructions. Note that Mendeley and the various tables of contents support master documents as well.
 
 You can find examples of successful theses from your department following the instructions here: http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/ . Look for ones with Online Access, as you can get these easily.
