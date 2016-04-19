@@ -1,3 +1,0 @@
-#See http://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/
-#for rest of configuration required.
-*.docx diff=pandoc
