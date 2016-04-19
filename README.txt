@@ -1,6 +1,6 @@
 Lancaster University Thesis Template
 
-This is a version of the thesis template created by Kayla Friedman and Malcolm Morgan - see https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/ . This page provides instructions and background, and also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
+This is a version of the thesis template created by Kayla Friedman and Malcolm Morgan - see https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/ . See that page for instructions and background; it also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
 
 I have made the following changes for Lancaster University use:
 * Changed filenames
@@ -8,7 +8,6 @@ I have made the following changes for Lancaster University use:
 * Put in Logo according to LU brand guidelines; removed college etc.
 * Made line spacing double.
 * Changed declaration to include papers written.
-
 
 Word is not very good at handling very large files, so for a practical thesis you may need a master document with sub-documents for each chapter. That works fine with this template. See http://www.howtogeek.com/73960/create-a-master-document-in-word-2010-from-multiple-documents/ for instructions. Note that Mendeley and the various tables of contents support master documents as well.
 
