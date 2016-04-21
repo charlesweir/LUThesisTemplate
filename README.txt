@@ -14,6 +14,7 @@ Click on Github's Download Zip button above to download an archive of these file
 * LAN Thesis Template.dotx - A Template to act as a basis for document. It fills in many of the fields correctly.
 * LAN+Template.thmx - A PowerPoint theme for embedded pictures with black backgrounds... 
 
+Details on how to submit your thesis are available from http://www.lancaster.ac.uk/library/information-for/researchers/disseminating-research/submitting-your-thesis/ .  The Manual of Academic Regulations and Procedures (linked from that page) gives word counts and detailed submission requirements.
 
 Word is not very good at handling very large files, so for a practical thesis you may need a master document with sub-documents for each chapter. That works fine with this template. See http://www.howtogeek.com/73960/create-a-master-document-in-word-2010-from-multiple-documents/ for instructions. Note that Mendeley and the various tables of contents support master documents as well.
 
