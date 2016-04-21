@@ -9,7 +9,7 @@ I have made the following changes for Lancaster University use:
 * Made line spacing double.
 * Changed declaration to include papers written.
 
-Click on Github's Download Zip button above to download the files:
+Click on Github's Download Zip button above to download an archive of these files:
 * LAN Thesis Sample.docx - An example simple word document thesis.
 * LAN Thesis Template.dotx - A Template to act as a basis for document. It fills in many of the fields correctly.
 * LAN+Template.thmx - A PowerPoint theme for embedded pictures with black backgrounds... 
