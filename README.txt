@@ -4,7 +4,7 @@ This is a version of the thesis template created by Kayla Friedman and Malcolm M
 
 I have made the following changes for Lancaster University use:
 * Changed filenames
-* Changed fonts (Lancaster makes less use of small caps)
+* Changed font styling (Lancaster makes less use of small caps)
 * Put in Logo according to LU brand guidelines; removed college etc.
 * Made line spacing double.
 * Changed declaration to include papers written.
@@ -19,7 +19,7 @@ Word is not very good at handling very large files, so for a practical thesis yo
 
 You can find examples of successful theses from your department following the instructions here: http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/ . Look for ones with Online Access, as you can get these easily.
 
-CSD Thesis Template by Kayla Friedman and Malcolm Morgan is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+CSD Thesis Template by Kayla Friedman and Malcolm Morgan is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This version is licensed under the same license.
 
 
 
