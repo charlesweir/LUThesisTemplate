@@ -1,5 +1,7 @@
 # Lancaster University Thesis Template
 
+Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/download/v1.0/LUThesisTemplate.zip)
+
 This is a version of the [thesis template created by Kayla Friedman and Malcolm Morgan](https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/). See that page for instructions and background; it also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
 
 This is a template. Using the Word styles it defines makes it easy to make changes throughout the document. It’s quite possible that your department may have different rules about style, content and formatting than the default here. If so, just change the styles accordingly.
