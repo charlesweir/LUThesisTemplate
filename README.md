@@ -4,7 +4,7 @@ This is a version of the [thesis template created by Kayla Friedman and Malcolm 
 
 This is a template. Using the Word styles it defines makes it easy to make changes throughout the document. It’s quite possible that your department may have different rules about style, content and formatting than the default here. If so, just change the styles accordingly.
 
-I have made the following changes for Lancaster University use:
+We have made the following changes for Lancaster University use:
 
  - Changed filenames
  - Changed font styling (Lancaster makes less use of small caps)
