@@ -1,6 +1,6 @@
 # Lancaster University Thesis Template
 
-Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/download/v1.0/LUThesisTemplate.zip)
+Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/download/1.1/LUThesisTemplate.zip)
 
 This is a version of the [thesis template created by Kayla Friedman and Malcolm Morgan](https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/). See that page for instructions and background; it also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
 
