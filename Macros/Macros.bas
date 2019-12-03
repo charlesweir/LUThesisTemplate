@@ -320,6 +320,7 @@ Sub AFormatMyPicture()
                 'Small picture. Put below anchor, wrap around. Toggle left/right, above below
                 .WrapFormat.Type = wdWrapSquare
                 .RelativeHorizontalPosition = wdRelativeHorizontalPositionColumn
+                .RelativeVerticalPosition = wdRelativeVerticalPositionParagraph
                 If .Left = wdShapeRight And .Top = 0 Then
                     pos = 2 ' Below Left
                     .Left = wdShapeLeft
@@ -344,7 +345,6 @@ Sub AFormatMyPicture()
                     Do Until .Top + .Height + 1 + ParaSpacing > AnchorParagraph.Range.Information(wdVerticalPositionRelativeToPage)
                         .IncrementTop (1)
                     Loop
-                    .RelativeVerticalPosition = wdRelativeVerticalPositionParagraph
                 End If
             Else
                 ' Big picture: Toggle top/bottom of page
@@ -362,4 +362,18 @@ Sub AFormatMyPicture()
             
     End With
 
+End Sub
+
+Sub ImageDownABit()
+    ' Take the currently selected image down a pixel without altering formatting
+    Dim myShape As Shape
+      
+    If Selection.ShapeRange.Count > 0 Then
+        Set myShape = Selection.ShapeRange(1)
+    Else
+        MsgBox "Please select a float picture first."
+        Exit Sub
+    End If
+
+    myShape.IncrementTop (1)
 End Sub
