@@ -318,6 +318,9 @@ Sub AFormatMyPicture()
             HalfPageWidth = Selection.Sections(1).PageSetup.TextColumns.Width / 2
             If .Width < HalfPageWidth Then
                 'Small picture. Put below anchor, wrap around. Toggle left/right, above below
+                ' Positions around the anchor point look like this:
+                ' 4  3
+                ' 2  1
                 .WrapFormat.Type = wdWrapSquare
                 .RelativeHorizontalPosition = wdRelativeHorizontalPositionColumn
                 .RelativeVerticalPosition = wdRelativeVerticalPositionParagraph
@@ -340,11 +343,14 @@ Sub AFormatMyPicture()
                     ' Locate the image just above the anchor
                     Set AnchorParagraph = .Anchor.Paragraphs(1)
                     ParaSpacing = AnchorParagraph.SpaceAfter
-                    .RelativeVerticalPosition = wdRelativeVerticalPositionPage
-                    .Top = AnchorParagraph.Range.Information(wdVerticalPositionRelativeToPage) - .Height - ParaSpacing
-                    Do Until .Top + .Height + 1 + ParaSpacing > AnchorParagraph.Range.Information(wdVerticalPositionRelativeToPage)
+                    TopMargin = Selection.Sections(1).PageSetup.TopMargin
+                    .RelativeVerticalPosition = wdRelativeVerticalPositionMargin
+                    .Top = AnchorParagraph.Range.Information(wdVerticalPositionRelativeToPage) - .Height - ParaSpacing - TopMargin
+                    Do Until .Top + .Height + 1 + ParaSpacing + TopMargin > AnchorParagraph.Range.Information(wdVerticalPositionRelativeToPage)
                         .IncrementTop (1)
                     Loop
+                    .RelativeVerticalPosition = wdRelativeVerticalPositionLine
+                    
                 End If
             Else
                 ' Big picture: Toggle top/bottom of page
