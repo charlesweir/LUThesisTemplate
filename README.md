@@ -1,6 +1,6 @@
 # Lancaster University Thesis Template
 
-Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/download/1.1/LUThesisTemplate.zip)
+Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/download/1.2/LUThesisTemplate.zip)
 
 This is a version of the [thesis template created by Kayla Friedman and Malcolm Morgan](https://neuraldischarge.wordpress.com/2013/11/05/the-only-phdmasters-thesis-template-for-word-you-will-ever-need/). See that page for instructions and background; it also has a good PowerPoint presentation by Malcolm Morgan on using Word for thesis writing.
 
@@ -11,21 +11,20 @@ We have made the following changes for Lancaster University use:
  - Changed filenames
  - Changed font styling (Lancaster makes less use of small caps)
  - Put in Logo according to LU brand guidelines; removed college etc.
- - Made line spacing double
  - Changed declaration to include papers written.
  - Fixed some traits that caused problems using it.
+ - Added advice on master documents, image placing, and document updating.
 
 Click on the link above to download an archive of these files:
 
-* **LAN Thesis Sample.docx** - An example simple word document thesis.
+* **LAN Thesis Sample.docx** - An example simple MS Word document thesis.
 * **LAN Thesis Template.dotx** - A Template to act as a basis for document. It fills in many of the fields correctly.
-* **LAN+Template.thmx** - A PowerPoint theme for embedded pictures with black backgrounds... 
 
-Details on how to submit your thesis are available from the [Lancaster Library site here](http://www.lancaster.ac.uk/library/information-for/researchers/disseminating-research/submitting-your-thesis/) .  The [Manual of Academic Regulations and Procedures](https://gap.lancs.ac.uk/ASQ/QAE/MARP/Pages/default.aspx) gives word counts and detailed submission requirements.
+Details on how to submit your thesis are available from the [Lancaster Library site here](https://www.lancaster.ac.uk/library/how-to/theses/deposit-your-thesis/) .  The [Manual of Academic Regulations and Procedures](https://www.lancaster.ac.uk/academic-standards-and-quality/marp/) gives word counts and detailed submission requirements.
 
 Word is not good at handling very large files, so for a practical thesis you may need a master document with sub-documents for each chapter. That works fine with this template. See [this HowToGeek site](http://www.howtogeek.com/73960/create-a-master-document-in-word-2010-from-multiple-documents/) for instructions. Note that Mendeley and the various tables of contents support master documents as well.
 
 You can find examples of successful theses from your department following the instructions on the [Lancaster Library site here](http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/). Look for ones with Online Access, as you can get these easily.
 
-CSD Thesis Template by Kayla Friedman and Malcolm Morgan is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This version is licensed under the same license.
+This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. T
 
