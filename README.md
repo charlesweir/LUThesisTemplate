@@ -20,11 +20,13 @@ Click on the link above to download an archive of these files:
 * **LAN Thesis Sample.docx** - An example simple MS Word document thesis.
 * **LAN Thesis Template.dotx** - A Template to act as a basis for document. It fills in many of the fields correctly.
 
+There is also a Word plug-in [available here](https://github.com/charlesweir/WordImagesAndTables) that you may find helpful for adding and laying out images and tables.
+
 Details on how to submit your thesis are available from the [Lancaster Library site here](https://www.lancaster.ac.uk/library/how-to/theses/deposit-your-thesis/) .  The [Manual of Academic Regulations and Procedures](https://www.lancaster.ac.uk/academic-standards-and-quality/marp/) gives word counts and detailed submission requirements.
 
 Word is not good at handling very large files, so for a practical thesis you may need a master document with sub-documents for each chapter. That works fine with this template. See [this HowToGeek site](http://www.howtogeek.com/73960/create-a-master-document-in-word-2010-from-multiple-documents/) for instructions. Note that Mendeley and the various tables of contents support master documents as well.
 
 You can find examples of successful theses from your department following the instructions on the [Lancaster Library site here](http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/). Look for ones with Online Access, as you can get these easily.
 
-This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. T
+This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
