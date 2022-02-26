@@ -1,3 +1,6 @@
+<!-- To generate the README version for the zip release archive, use 
+    pandoc -t docx README.md > README.docx
+-->
 # Lancaster University Thesis Template
 
 Download the latest version here: [LUThesisTemplate.zip](https://github.com/charlesweir/LUThesisTemplate/releases/latest/download/LUThesisTemplate.zip)
@@ -28,6 +31,6 @@ Word is not good at handling very large files, so for a practical thesis you may
 
 You can find examples of successful theses from your department following the instructions on the [Lancaster Library site here](http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/). Look for ones with Online Access, as you can get these easily.
 
-This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 'Attribution' means your thesis must credit Charles Weir, Kayla Friedman and Malcolm Morgan in the thesis if you use the template.
+This thesis template is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 'Attribution' means you must credit Charles Weir, Kayla Friedman and Malcolm Morgan in the thesis if you use the template.
 
 We're delighted to be able to help you with this one aspect of creating your thesis. Good luck!
