@@ -32,7 +32,7 @@ Word is not good at handling very large files, so for a practical thesis you may
 
 You can find examples of successful theses from your department following the instructions on the [Lancaster Library site here](http://www.lancaster.ac.uk/library/resources/theses-and-dissertations/). Look for ones with Online Access, as you can get these easily.
 
-## Getting Started - from scratch
+## Starting from scratch
 
 Create a new document from the template. Either double click on the template file in Windows Explorer / Apple Finder, which opens a new file based on the template. 
 Or, in Word, use *File - New - New from template* and select the template file. 
