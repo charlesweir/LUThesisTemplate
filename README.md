@@ -19,7 +19,7 @@ We have made the following changes for Lancaster University use:
  - Changed declaration to include papers written; and
  - Added advice on master documents, image placing, and document updating.
 
-Click on the link above to archive containing these files:
+Click on the link above to download a ZIP archive containing these files:
 
 * **LAN Thesis Template.dotx** - A Template to act as a basis for your thesis. It provides Lancaster University styling, all the appropriate tables of contents and similar, and gives examples of embedded images and tables..
 * **README.docx** - These instructions in Word format.
